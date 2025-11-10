@@ -1,0 +1,5 @@
+"""Entry point for running the DodzAI desktop application."""
+from .ui.app import launch
+
+if __name__ == "__main__":
+    launch()
